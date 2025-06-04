@@ -1,4 +1,4 @@
-<img src="https://github.com/DaviLLi/DaviLLi/blob/main/banner.png" alt="Banner" style="width:100%;"/>
+<img src="https://raw.githubusercontent.com/DaviLLi/DaviLLi/main/banner.png" alt="Banner" style="width:100%;">
 
 ### Me chamo Davi
 
