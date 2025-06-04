@@ -1,6 +1,6 @@
 <img src="https://github.com/DaviLLi/DaviLLi/blob/main/banner.png" alt="Banner" style="width:100%;"/>
 
-### 👋 Olá! Eu sou o Davi
+### Me chamo Davi
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas — apaixonado por tecnologia, design e desenvolvimento.
 
@@ -9,9 +9,10 @@
 - Git & GitHub
 - Aprendendo sobre React e outras tecnologias Front-End
 
-🚀 Buscando meu primeiro estágio como desenvolvedor Front-End.
+🚀 Buscando meu primeiro estágio.
 
 🛠️ **Tecnologias e Ferramentas:**  
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,4 +25,4 @@
 
 ---
 
-✨ Sempre aprendendo, praticando e buscando evoluir! ✨
+Sempre aprendendo, praticando e buscando evoluir! 
